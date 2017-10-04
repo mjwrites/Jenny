@@ -8,7 +8,7 @@
         Preloader
 *************************/
    $("#load").fadeOut();
-   $('#loading').delay(0).fadeOut('slow');
+   $('#loading').delay(1).fadeOut('slow');
 
 /*************************
         Owl carousel
